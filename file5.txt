@@ -1,2 +1,3 @@
 This is file5.txt in newFeature branch
 New line
+Inserted new line in file5.txt to be  push on remote repository via ssh key
